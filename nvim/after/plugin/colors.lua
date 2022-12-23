@@ -7,7 +7,7 @@ function RosePine(color)
 
 end
 	
-RosePine()
+-- RosePine()
 
 
 
