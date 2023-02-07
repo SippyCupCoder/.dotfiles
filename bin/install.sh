@@ -11,6 +11,9 @@ rm -rf ~/.gitconfig &&
 
 rm -rf ~/.tmux.conf &&
 
+rm -rf ~/.bashrc &&
+rm -rf ~/.bash_profile &&
+
 
 ln -s ~/.dotfiles/nvim ~/.config/nvim	 && 
 
