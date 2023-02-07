@@ -26,6 +26,7 @@ ln -s ~/.dotfiles/Git/.gitconfig ~/.gitconfig &&
 
 ln -s ~/.dotfiles/tmux/.tmux.conf ~/.tmux.conf &&
 ln -s ~/.dotfiles/bin/ ~/bin &&
-
+ln -s ~/.dotfiles/bash/.bashrc ~/.bashrc &&
+ln -s ~/.dotfiles/bash/.bashrc ~/.bash_profile
 
 echo "Done"
